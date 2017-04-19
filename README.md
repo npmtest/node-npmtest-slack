@@ -1,4 +1,7 @@
-# test coverage for  [slack (v8.2.7)](https://github.com/smallwins/slack#readme)  [![npm package](https://img.shields.io/npm/v/npmtest-slack.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-slack) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-slack.svg)](https://travis-ci.org/npmtest/node-npmtest-slack)
+# npmtest-slack
+
+#### test coverage for  [slack (v8.2.7)](https://github.com/smallwins/slack#readme)  [![npm package](https://img.shields.io/npm/v/npmtest-slack.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-slack) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-slack.svg)](https://travis-ci.org/npmtest/node-npmtest-slack)
+
 #### Slack API client written in JS
 
 [![NPM](https://nodei.co/npm/slack.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/slack)

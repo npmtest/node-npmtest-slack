@@ -4,7 +4,7 @@
 <tspan x="10" y="26">1 megabytes installed</tspan>
 <tspan x="10" y="42"></tspan>
 <tspan x="10" y="58">node_modules</tspan>
-<tspan x="10" y="74">└─┬ slack@8.2.7 </tspan>
+<tspan x="10" y="74">└─┬ slack@8.3.0 </tspan>
 <tspan x="10" y="90">  ├── tiny-json-http@5.1.0 </tspan>
 <tspan x="10" y="106">  └─┬ ws@1.1.4 </tspan>
 <tspan x="10" y="122">    ├── options@0.0.6 </tspan>

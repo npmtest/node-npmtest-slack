@@ -1,6 +1,6 @@
 # npmtest-slack
 
-#### test coverage for  [slack (v8.2.7)](https://github.com/smallwins/slack#readme)  [![npm package](https://img.shields.io/npm/v/npmtest-slack.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-slack) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-slack.svg)](https://travis-ci.org/npmtest/node-npmtest-slack)
+#### basic test coverage for  [slack (v8.3.0)](https://github.com/smallwins/slack#readme)  [![npm package](https://img.shields.io/npm/v/npmtest-slack.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-slack) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-slack.svg)](https://travis-ci.org/npmtest/node-npmtest-slack)
 
 #### Slack API client written in JS
 
@@ -10,7 +10,7 @@
 |--:|:--|
 | coverage : | [![istanbul-coverage](https://npmtest.github.io/node-npmtest-slack/build/coverage.badge.svg)](https://npmtest.github.io/node-npmtest-slack/build/coverage.html/index.html)|
 | test-report : | [![test-report](https://npmtest.github.io/node-npmtest-slack/build/test-report.badge.svg)](https://npmtest.github.io/node-npmtest-slack/build/test-report.html)|
-| build-artifacts : | [![build-artifacts](https://npmtest.github.io/node-npmtest-slack/glyphicons_144_folder_open.png)](https://github.com/npmtest/node-npmtest-slack/tree/gh-pages/build)|
+| test-server-github : | [![github.com test-server](https://npmtest.github.io/node-npmtest-slack/GitHub-Mark-32px.png)](https://npmtest.github.io/node-npmtest-slack/build/app/index.html) | | build-artifacts : | [![build-artifacts](https://npmtest.github.io/node-npmtest-slack/glyphicons_144_folder_open.png)](https://github.com/npmtest/node-npmtest-slack/tree/gh-pages/build)|
 
 - [https://npmtest.github.io/node-npmtest-slack/build/coverage.html/index.html](https://npmtest.github.io/node-npmtest-slack/build/coverage.html/index.html)
 
@@ -74,10 +74,10 @@
     },
     "directories": {},
     "dist": {
-        "shasum": "7a795a3e5e8482d64075aae88e11f04f29358ba1",
-        "tarball": "https://registry.npmjs.org/slack/-/slack-8.2.7.tgz"
+        "shasum": "35614c849d6336686a721b92ffa1b646faed0770",
+        "tarball": "https://registry.npmjs.org/slack/-/slack-8.3.0.tgz"
     },
-    "gitHead": "3e36da7a911bd3d4138aae507ad9eca7c967310f",
+    "gitHead": "d3e8b34aba7af319948e3958dfa78c7e0be7a5d3",
     "homepage": "https://github.com/smallwins/slack#readme",
     "keywords": [
         "slack",
@@ -115,7 +115,8 @@
         "t": "npm run build && ./scripts/t",
         "test": "npm run build && ./scripts/test"
     },
-    "version": "8.2.7"
+    "version": "8.3.0",
+    "bin": {}
 }
 ```
 
